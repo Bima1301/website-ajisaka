@@ -80,7 +80,7 @@ export default function NavMobile(
             initial="initial"
             animate="animate"
             exit="exit"
-            className="fixed origin-top top-0 left-0 right-0 bottom-0 bg-white z-50 w-full h-fit shadow-lg">
+            className="fixed origin-top top-0 left-0 right-0 bottom-0 bg-white z-50 w-full h-fit min-h-[55vh] shadow-lg">
             <div className='flex justify-end items-center bg-white mt-10 px-10 '>
                 <button onClick={() => setNavMobileOpen(!navMobileOpen)}>
                     <TimesIcon className='text-stone-700' />
