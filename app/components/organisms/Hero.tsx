@@ -28,7 +28,6 @@ export default function Hero() {
                         src='/images/landingBg/landing1.png'
                         alt='hero'
                         priority
-                        quality={100}
                         layout='fill'
                         className='object-cover'
                         sizes='(max-width: 768px) 100vw, 600px'
@@ -39,7 +38,6 @@ export default function Hero() {
                         src='/images/landingBg/landing2.png'
                         alt='hero'
                         priority
-                        quality={100}
                         layout='fill'
                         className='object-cover'
                         sizes='(max-width: 768px) 100vw, 600px'
@@ -50,7 +48,6 @@ export default function Hero() {
                         src='/images/landingBg/landing3.png'
                         alt='hero'
                         priority
-                        quality={100}
                         layout='fill'
                         className='object-cover'
                         sizes='(max-width: 768px) 100vw, 600px'
@@ -61,7 +58,6 @@ export default function Hero() {
                         src='/images/landingBg/landing4.png'
                         alt='hero'
                         priority
-                        quality={100}
                         layout='fill'
                         className='object-cover'
                         sizes='(max-width: 768px) 100vw, 600px'

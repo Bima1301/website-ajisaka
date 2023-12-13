@@ -11,7 +11,6 @@ export default function Intro() {
                 src='/images/lensaAjisaka/bgIntro.png'
                 alt='hero'
                 priority
-                quality={60}
                 layout='fill'
                 className='object-cover object-top'
                 sizes='(max-width: 768px) 100vw, 600px'

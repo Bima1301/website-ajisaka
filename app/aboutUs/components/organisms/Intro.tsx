@@ -10,7 +10,6 @@ export default function Intro() {
                 src='/images/aboutUs/bgAboutUs.png'
                 alt='hero'
                 priority
-                quality={100}
                 layout='fill'
                 className='object-cover object-top'
                 sizes='(max-width: 768px) 100vw, 600px'
@@ -38,7 +37,6 @@ export default function Intro() {
                         src='/images/aboutUs/bgAboutUs.png'
                         alt='hero'
                         priority
-                        quality={100}
                         layout='fill'
                         className='object-cover object-top'
                         sizes='(max-width: 768px) 100vw, 600px'
