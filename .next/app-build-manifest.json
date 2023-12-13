@@ -1,0 +1,71 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-850794aa52947605.js",
+      "static/chunks/fd9d1056-14766259694fc46e.js",
+      "static/chunks/938-ddd316d02bbde68d.js",
+      "static/chunks/main-app-c47093da53e48a47.js",
+      "static/chunks/app/_not-found-7c7196994f5627b8.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-850794aa52947605.js",
+      "static/chunks/fd9d1056-14766259694fc46e.js",
+      "static/chunks/938-ddd316d02bbde68d.js",
+      "static/chunks/main-app-c47093da53e48a47.js",
+      "static/css/612bd0ef2ba11095.css",
+      "static/chunks/app/layout-541614ee26bfb7a1.js"
+    ],
+    "/aboutUs/page": [
+      "static/chunks/webpack-850794aa52947605.js",
+      "static/chunks/fd9d1056-14766259694fc46e.js",
+      "static/chunks/938-ddd316d02bbde68d.js",
+      "static/chunks/main-app-c47093da53e48a47.js",
+      "static/css/65aa3619a1925c9d.css",
+      "static/chunks/760-edc36cf70508015d.js",
+      "static/chunks/161-b1ec3501536fbbf8.js",
+      "static/chunks/app/aboutUs/page-cda7aa7f4805b365.js"
+    ],
+    "/competition/page": [
+      "static/chunks/webpack-850794aa52947605.js",
+      "static/chunks/fd9d1056-14766259694fc46e.js",
+      "static/chunks/938-ddd316d02bbde68d.js",
+      "static/chunks/main-app-c47093da53e48a47.js",
+      "static/css/65aa3619a1925c9d.css",
+      "static/chunks/760-edc36cf70508015d.js",
+      "static/chunks/161-b1ec3501536fbbf8.js",
+      "static/chunks/app/competition/page-41000c7730aa4abd.js"
+    ],
+    "/faq/page": [
+      "static/chunks/webpack-850794aa52947605.js",
+      "static/chunks/fd9d1056-14766259694fc46e.js",
+      "static/chunks/938-ddd316d02bbde68d.js",
+      "static/chunks/main-app-c47093da53e48a47.js",
+      "static/css/65aa3619a1925c9d.css",
+      "static/chunks/760-edc36cf70508015d.js",
+      "static/chunks/161-b1ec3501536fbbf8.js",
+      "static/chunks/app/faq/page-73b73c7c2ca5904e.js"
+    ],
+    "/lensaAjisaka/page": [
+      "static/chunks/webpack-850794aa52947605.js",
+      "static/chunks/fd9d1056-14766259694fc46e.js",
+      "static/chunks/938-ddd316d02bbde68d.js",
+      "static/chunks/main-app-c47093da53e48a47.js",
+      "static/css/65aa3619a1925c9d.css",
+      "static/chunks/760-edc36cf70508015d.js",
+      "static/chunks/161-b1ec3501536fbbf8.js",
+      "static/chunks/app/lensaAjisaka/page-df4de8b1b5f2f4d1.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-850794aa52947605.js",
+      "static/chunks/fd9d1056-14766259694fc46e.js",
+      "static/chunks/938-ddd316d02bbde68d.js",
+      "static/chunks/main-app-c47093da53e48a47.js",
+      "static/css/65aa3619a1925c9d.css",
+      "static/chunks/760-edc36cf70508015d.js",
+      "static/chunks/720-f5c11f53e5f33eaf.js",
+      "static/chunks/161-b1ec3501536fbbf8.js",
+      "static/css/99e837af73da8dbf.css",
+      "static/chunks/app/page-16ef1a7ec5f24505.js"
+    ]
+  }
+}
